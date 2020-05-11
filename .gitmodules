@@ -1,0 +1,6 @@
+[submodule "sites/all/modules/utk_lib_digital_custom"]
+	path = sites/all/modules/utk_lib_digital_custom
+	url = git@github.com:utkdigitalinitiatives/utk_lib_digital_custom.git
+[submodule "sites/all/modules/custom/utk_lib_digital_custom"]
+	path = sites/all/modules/custom/utk_lib_digital_custom
+	url = git@github.com:utkdigitalinitiatives/utk_lib_digital_custom.git
