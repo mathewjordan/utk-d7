@@ -44,3 +44,8 @@ Thumbs.db
 # SASS #
 ##########
 .sass-cache
+
+# drupal stuff
+sites/default/settings.php
+.idea
+.idea/*
